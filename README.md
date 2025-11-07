@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Hydrong/Hydrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕하세요 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydrong&layout=compact)
